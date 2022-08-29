@@ -1,0 +1,12 @@
+{
+    "Distortion": true,
+    "Delay": true,
+    "Reverb": true,
+
+    "FM": true,
+
+    "Filter": true,
+    "Filter_LFO": true,
+
+    "Unison": true
+}
